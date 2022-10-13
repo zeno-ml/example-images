@@ -1,0 +1,4 @@
+zenoml==0.2.0
+Pillow==9.2.0
+torch==1.12.1
+torchvision==0.13.1

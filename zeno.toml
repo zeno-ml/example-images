@@ -1,0 +1,13 @@
+tests = "./tests/"
+view = "image-classification"
+metadata = "./cifar.csv"
+models = [
+    "./models/cifar_net_2.pth",
+    "./models/cifar_net_5.pth",
+    "./models/cifar_net_10.pth",
+    "./models/cifar_net_20.pth"
+]
+data_path = "./cifar"
+data_column = "id"
+batch_size = 16
+samples = 80
